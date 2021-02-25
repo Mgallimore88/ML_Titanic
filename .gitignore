@@ -1,7 +1,9 @@
 # ignore dataset
 data/
+*.csv
 
-
+# Ignore temp files
+tmp/
 
 
 
